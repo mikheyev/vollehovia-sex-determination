@@ -1,8 +1,7 @@
 # Supplementary data for Miyakawa and Mikheyev "Immunity to inbreeding in an ant: clonal reproduction stabilizes sex determination loci, facilitating biological invasion", to be deposited in DataDryad
 
 <div style="text-align:center">
-<img src="https://www.antweb.org/images/casent0003196/casent0003196_p_1_high.jpg" alt="Vollenhovia emeryi worker" width="500" ></div>
-<p>Image credit [AntWeb](http://www.antweb.org). Licensed under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)</p>
+<img src="https://www.antweb.org/images/casent0003196/casent0003196_p_1_high.jpg" alt="Vollenhovia emeryi worker" width="500" ></div>Image credit [AntWeb](http://www.antweb.org). Licensed under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)
 
 ## assembly.fa.gz
 
