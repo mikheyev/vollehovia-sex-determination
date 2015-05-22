@@ -1,5 +1,6 @@
 # Supplementary data  to be deposited in DataDryad upon manuscript acceptance
 
+<img src="https://www.antweb.org/images/casent0003196/casent0003196_p_1_high.jpg" alt="Vollenhovia emeryi worker" width="500" align="middle">
 
 ## assembly.fa.gz
 
